@@ -1,0 +1,56 @@
+!    remarkable object
+!!   very remarkable object
+am   among
+att  attached
+bet  between
+B    bright
+b    brighter
+C    compressed
+c    considerably
+Cl   cluster
+D    double
+def  defined
+deg  degrees
+diam diameter
+dif  diffuse
+E    elongated
+e    extremely
+er   easily resolved
+F    faint
+f    following
+g    gradually
+iF   irregular figure
+inv  involved
+irr  irregular
+L    large
+l    little
+mag  magnitude
+M    middle
+m    much
+n    north
+N    nucleus
+neb  nebula, nebulosity
+P w  paired with
+p    pretty (before F,B,L,S)
+p    preceding
+P    poor
+R    round
+Ri   rich
+r    not well resolved
+rr   partially resolved
+rrr  well resolved
+S    small
+s    suddenly
+s    south
+sc   scattered
+susp suspected
+st   star or stellar
+v    very
+var  variable
+nf   north following
+np   north preceding
+sf   south following
+sp   south preceding
+11m  11th magnitude
+8... 8th mag and fainter
+9...13  9th to 13th magnitude
